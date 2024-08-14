@@ -12,7 +12,7 @@ print(suma)
 nombre = "Roberto"
 apellido= 'Hernandez'
 fullName = nombre + " " + apellido
-print(fullName)
+print(nombre)
 # Variable tipo boolean
 lampara=True
 print("la lampara esta encendida",lampara)
